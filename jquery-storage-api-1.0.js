@@ -4,7 +4,7 @@
 * Copyright (c) 2012 "Quickredfox" Francois Lafortune
 * Licensed under the same conditions as jQuery itself.
 * license: http://jquery.org/license/
-* source: https://github.com/quickredfox/jquery-ajax-reviver
+* source: https://github.com/quickredfox/jquery-storage-api
 * 
 */
 
