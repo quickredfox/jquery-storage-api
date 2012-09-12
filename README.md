@@ -1,3 +1,6 @@
+# BROKEN, will rape your native storage.
+# TODO: fix
+
 jQuery Storage API Plugin - v1.0 - 06/20/2012
 =============================================
 
